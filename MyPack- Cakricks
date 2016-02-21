@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 channelId="-1" group-title="Premium - Cakricks" , Tv de Paga
-group-title="Premium - Cakricks", Tv de Paga
 
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="exabytetv" group-title="ENTRETENIMIENTO",A&E (Baja Resolución)
 http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=aehd&cal=2&tk=auth9ejnr4fd
